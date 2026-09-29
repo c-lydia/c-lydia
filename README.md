@@ -106,8 +106,7 @@ A ROS 2 demonstration robot stack connecting user input, robot-control logic, ki
 `ROS 2` `C++` `Python` `Gazebo` `VESC` `CAN`
 
 ### 🖥️ [operating_system](https://github.com/c-lydia/operating_system)
-
-An operating-systems project focused on low-level systems concepts and implementation.
+Lecture notes about Operating System, Docker, and ROS 2.
 
 `C` `Linux` `Operating Systems`
 
